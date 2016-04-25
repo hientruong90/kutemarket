@@ -1,0 +1,55 @@
+# Translation of Delicious in English (Canada)
+# This file is distributed under the same license as the Delicious package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-18 14:48:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Delicious\n"
+
+#. Description of the plugin/theme
+msgid "Delicious is a responsive wordpress theme for Food lovers, Restaurant, cooking blog. Start your own food blog Chef"
+msgstr "Delicious is a responsive wordpress theme for Food lovers, Restaurant, cooking blog. Start your own food blog Chef"
+
+#. Theme Name of the plugin/theme
+msgid "Delicious"
+msgstr "Delicious"
+
+#: functions.php:140
+msgid "Archives"
+msgstr "Archives"
+
+#: functions.php:137
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: functions.php:134
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: functions.php:131
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: functions.php:123
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: functions.php:113
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#. Author of the plugin/theme
+msgid "themehall.com"
+msgstr "themehall.com"
+
+#. Author URI of the plugin/theme
+msgid "https://themehall.com"
+msgstr "https://themehall.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://themehall.com/delicious-culinary-wordpress-theme"
+msgstr "https://themehall.com/delicious-culinary-wordpress-theme"
